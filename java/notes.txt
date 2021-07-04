@@ -1,0 +1,10 @@
+
+coding:
+- simple and elegant design
+- simple and elegant code
+- don't worry about minor optimizations, focus on clarity and simplicity
+- bounds checking
+- edge cases
+- run through multiple test cases
+- write tests
+
